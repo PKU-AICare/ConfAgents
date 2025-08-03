@@ -1,0 +1,10 @@
+faiss-cpu==1.7.4
+python-liquid
+openai
+langchain
+tqdm==4.66.1
+transformers==4.44.2
+sentence_transformers==2.2.2
+pyserini==0.22.1
+tiktoken==0.6.0
+datasets==2.16.1

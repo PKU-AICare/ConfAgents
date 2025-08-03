@@ -1,0 +1,1202 @@
+[
+    {
+      "qid": 1,
+      "question": "The liver is involved in synthesis of several proteins including albumin and clotting factors. Which of the following clotting or anti-clotting factors is not synthesized in the liver?\r\n\r\n\r\n\r\n\r\n\r\n",
+      "options": {
+        "A": "Protein C",
+        "B": "II",
+        "C": "IV",
+        "D": "IX",
+        "E": "X"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 2,
+      "question": "The Developmentally dysplastic hip is not commonly associated with \r\n\r\n",
+      "options": {
+        "A": "Being African",
+        "B": "The angle of femoral neck ante version",
+        "C": "Breech presentation",
+        "D": "Being Caucasian",
+        "E": "Family history of hip disorders"
+      },
+      "answer": "A"
+    },
+    {
+      "qid": 3,
+      "question": "What is the most common cause of malnutrition in children in Africa?",
+      "options": {
+        "A": "Lack of access to food",
+        "B": "Poor sanitation",
+        "C": "Infectious diseases",
+        "D": "Lack of education",
+        "E": "Political instability"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 4,
+      "question": "The primary method of imaging of the stable blunt abdominal trauma patient, supporting the evolution of non-operative management in many solid abdominal organ injuries is\r\n\r\n",
+      "options": {
+        "A": "Plain radiograph of the abdomen",
+        "B": "Focused Assessment with Sonography in Trauma (FAST)",
+        "C": "Abdominal Computerized tomography (CT) with intravenous (IV) contrast",
+        "D": "Magnetic Resonance Imaging (MRI) of the abdomen",
+        "E": "Diagnostic peritoneal lavage"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 5,
+      "question": "In a patient with established chronic kidney disease, an estimated glomerular filtration rate of 17 indicates which stage of chronic kidney disease?",
+      "options": {
+        "A": "3a",
+        "B": "3b",
+        "C": "2",
+        "D": "5",
+        "E": "4"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 6,
+      "question": ". Invasive mole",
+      "options": {
+        "A": "It occurs in 30% of patients who have undergone evacuation of a molar pregnancy",
+        "B": "It occurs in 3% of patients who have undergone evacuation of a molar pregnancy",
+        "C": "It occurs in 1% of patients who have undergone evacuation of a molar pregnancy",
+        "D": "The microscopic findings are similar to that of choriocarcinoma",
+        "E": "The microscopic findings are similar to that of a hydatidiform mole"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 7,
+      "question": "Serial measurement of urinary Luteinising hormone is prospective and its level is a reliable indicator of ovulation",
+      "options": {
+        "A": "Serial measurement of urinary Luteinising hormone is prospective and its level is a reliable indicator of ovulation",
+        "B": "Endometrial biopsy is presumptive direct method of assessment",
+        "C": "History of Molinia symptoms confirms ovulation",
+        "D": "Ultrasound follicular tracking and its disappearance is prospective and accurate method",
+        "E": "Ultrasound follicular tracking and its disappearance is prospective and accurate method"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 8,
+      "question": "98. The aim of primary closure of a laceration is to achieve ",
+      "options": {
+        "A": "Healing by secondary intention",
+        "B": "b.Healing by fibrosis",
+        "C": "Achieve healing by tertiary intention",
+        "D": "Healing by primary intention",
+        "E": "e.None of the above"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 9,
+      "question": "Which of the following statements is True regarding typhoid enteritis?\r\n\r\n\r\n\r\n\r\n",
+      "options": {
+        "A": "It is characterised by leucocytosis",
+        "B": "Acute intestinal perforation is not a common complication",
+        "C": "It can be complicated by orchitis",
+        "D": "Perforation occurs at the mesenteric border of the intestine",
+        "E": "Perforation occurs in less than 5% of cases"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 10,
+      "question": "Which of the following statements is TRUE of infants with gastroschisis? \r\n",
+      "options": {
+        "A": "It is not associated with malrotation",
+        "B": "There is a high incidence of associated anomalies",
+        "C": "There is prolonged adynamic ileus following repair",
+        "D": "It is associated with chromosomal syndromes",
+        "E": "It frequently results in complications from infection"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 11,
+      "question": "\r\n38. Which of the following about autism spectrum is INCORRECT?\r\n",
+      "options": {
+        "A": "A. speech delay",
+        "B": "B. stereotypical motor movement",
+        "C": "social communication",
+        "D": "fixated and repetitive behavior",
+        "E": "n/a"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 12,
+      "question": "Differential diagnosis of chronic duodenal ulcer does NOT include\r\n\r\n\r\n\r\n\r\n\r\n",
+      "options": {
+        "A": "Reflux oesophagitis",
+        "B": "Chronic pancreatitis",
+        "C": "Carcinoma of the transverse colon",
+        "D": "Liver cirrhosis",
+        "E": "Carcinoma of the rectum"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 13,
+      "question": "A 21-year old woman presents with left lower quadrant pain. A 7-cm firm adnexal mass is palpated. Ultrasound confirms a complex adnexal mass with solid components that appears to contain a tooth. What percentage of these tumours are bilateral?\r\n\r\n\r\n\r\n\r\n",
+      "options": {
+        "A": "Less than 1 %",
+        "B": "2%-3%",
+        "C": "10%",
+        "D": "50%",
+        "E": "Greater than 75%."
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 14,
+      "question": "A term new born admitted to NICU on account of respiratory distress soon after birth.\r\nSpontaneous vaginal delivery and oligohydramnios. What is likely to be the cause",
+      "options": {
+        "A": "A.​Transient tachypnoea of new born",
+        "B": "B.​Congenital heart disease",
+        "C": "C.​Surfactant deficiency",
+        "D": "D.​Lung hypoplasia",
+        "E": "n/a"
+      },
+      "answer": "D"
+    },
+    {
+      "qid": 15,
+      "question": "When performing abdominal aortic compression to control postpartion hemorrhage, the point of compression \r\n",
+      "options": {
+        "A": "Just below and slightly to the right of the umbilicus",
+        "B": "Just below and slightly to the left of the umbilicus",
+        "C": "Just above and slightly to the right of the umbilicus",
+        "D": "Just above and slightly to the left of the umbilicus",
+        "E": "None of the above"
+      },
+      "answer": "D"
+    },
+    {
+      "qid": 16,
+      "question": "His presenting complaints may include all of the following except \r\n\r\n \r\n\r\n\r\n",
+      "options": {
+        "A": "Talking to himself",
+        "B": "Hearing voices inaudible to others in clear consciousness",
+        "C": "Neglecting personal hygiene",
+        "D": "Refusing to take medications",
+        "E": "none of the above"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 17,
+      "question": "A therapist who transfers emotions to a person in therapy is said to have:",
+      "options": {
+        "A": "Displacement",
+        "B": "Transference",
+        "C": "Countertransference",
+        "D": "Projection",
+        "E": "Audience"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 18,
+      "question": "A 4 year old girl falls from the balcony of an apartment on the third floor. On arrival in the Emergency Room she is haemodynamically stable. Initial radiographs demonstrate a right femur fracture and bilateral tibia fractures. Her chest radiograph shows no rib or sternal fractures. There is no pneumo or haemothorax. Despite this, her Sats drop to 86% on nasal prong oxygen, and she develops subcostal recessions. \r\n\r\nWhat is the most likely cause for her respiratory distress?\r\n",
+      "options": {
+        "A": "Cardiac contusion",
+        "B": "Fat embolism",
+        "C": "Aspiration pneumonia",
+        "D": "Pulmonary contusion",
+        "E": "n/a"
+      },
+      "answer": "D"
+    },
+    {
+      "qid": 19,
+      "question": "A 3-year-old child with no significant medical or surgical history presents with bowel obstruction and is taken to theatre for exploratory laparotomy. At laparotomy you find a loop of small intestine volved around a fibrous band which extends from the umbilicus to the jejunum. \r\n\r\nWhat is the most likely cause of this finding?\r\n\r\n",
+      "options": {
+        "A": "adhesive bowel obstruction",
+        "B": "omphalomesenteric duct remnant",
+        "C": "internal hernia",
+        "D": "remnant of the omphalomesenteric artery",
+        "E": "n/a"
+      },
+      "answer": "D"
+    },
+    {
+      "qid": 20,
+      "question": "One of the following statements is correct about vulval and vaginal conditions \r\n",
+      "options": {
+        "A": "Desquamative inflammatory vaginitis occurs mainly in the postmenopausal women.",
+        "B": "The causative organism in Toxic Shock Syndrome is streptococcus",
+        "C": "Vaginal discharge is the commonest presentation of foreign body in the vagina amongst toddlers",
+        "D": "Vulval warts in 3rd trimester is treated by cauterization to allow for a vaginal delivery.",
+        "E": "Stab incision followed by drainage of pus, is the advocated treatment of Bartholin's abscess"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 21,
+      "question": "Which of the following best describes the treatment of preeclampsia with severe features?",
+      "options": {
+        "A": "Phenytoin and Magnesium sulphate are equally effective in preventing recurrent seizures",
+        "B": "Phenytoin and Magnesium sulphate are equally effective in preventing recurrent seizures",
+        "C": "Midazolam has no place in modern management of severe preeclampsia",
+        "D": "Hydralazine is used in preference to labetalol to control severe hypertension",
+        "E": "Hydralazine and Nifedipine may cause fetal distress more than Labetalol"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 22,
+      "question": "You are performing an elective caesarean on a 28-year-old primigravida with a history of previous myomectomy breeching the uterine cavity. She has been appropriately consented and is keen to have more children. After delivery of the baby and intravenous administration of Oxytocin, you attempt to deliver the placenta but it is firmly adherent. The uterus is well contracted and is not bleeding significantly. What is the most appropriate management in this scenario?",
+      "options": {
+        "A": "Administer terbutalline",
+        "B": "Closure of the uterus",
+        "C": "Closure of the uterus and hysterectomy",
+        "D": "Manual removal of placenta",
+        "E": "Uterine artery embolization"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 23,
+      "question": "Inactivation of p 53 is seen in what percentage of human cancers? ",
+      "options": {
+        "A": "99%",
+        "B": "50%",
+        "C": "10%",
+        "D": ". 80%",
+        "E": "2%"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 24,
+      "question": "Which is true of Herpes infection\r\n",
+      "options": {
+        "A": "HSV meningitis has a high morality rate greater than 70% without treatment",
+        "B": "Recurrent herpes labialis all need oral treatment to prevent systemic symptoms",
+        "C": "VZV is more contagious through contact with vesicle fluid than aerosolized droplets",
+        "D": "VZV pneumonitis is more common in pregnant women",
+        "E": "VZV is commoner in immunocompetent people than immunocompromised."
+      },
+      "answer": "D"
+    },
+    {
+      "qid": 25,
+      "question": "Acute pancreatitis is the commonest cause of acute abdomen in Nigeria.",
+      "options": {
+        "A": "True",
+        "B": "False",
+        "C": "N/A",
+        "D": "N/A",
+        "E": "N/A"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 26,
+      "question": "The following are features of a Panic disorder except \r\n\r\n \r\n\r\n\r\n\r\n",
+      "options": {
+        "A": "Chronicity of panic attacks",
+        "B": "Acute onset",
+        "C": "Prominent autonomic symptoms",
+        "D": "Anticipatory anxiety",
+        "E": "Tingling"
+      },
+      "answer": "A"
+    },
+    {
+      "qid": 27,
+      "question": "Which of the following is/are true about timing of delivery in twins?\r\n",
+      "options": {
+        "A": "Maturity of singleton pregnancy at 40 weeks equates to that of twins at 38 weeks.",
+        "B": "Uncomplicated dichorionic twins should be delivered by 37 weeks.",
+        "C": "Monochorionic twins carry higher stillbirth rates than dichorionic twins.",
+        "D": "Uncomplicated monochorionic twins should be delivered at 34 weeks",
+        "E": "Frequent antenatal fetal monitoring is unnecessary in monochorionic twins."
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 28,
+      "question": "Acute haemorrhagic conjunctivitis, also known in Nigeria as Apollo, is caused by:",
+      "options": {
+        "A": "a.\tEnterovirus 70",
+        "B": "b.\tAdenovirus",
+        "C": "c.\tHerpesvirus",
+        "D": "d.\tCoxsackie A24",
+        "E": "e.\tReovirus"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 29,
+      "question": "Which is not true of pemphigus and pemphigoid\r\n",
+      "options": {
+        "A": "the prognosis of pemphigoid is better",
+        "B": "pemphigus lesions are intradermal where asi pemphigoid’s are subdermal",
+        "C": "mucosa is more often involved in pemphigus",
+        "D": "clinically the two can be usually differentiate with a good examination",
+        "E": "they are both autoimmune disorders."
+      },
+      "answer": "D"
+    },
+    {
+      "qid": 30,
+      "question": "Warfarin:",
+      "options": {
+        "A": "a.\tHas onset of action of about 24 hours;",
+        "B": "b.\tIs bound to albumin in plasma;",
+        "C": "c.\tCan cross the placenta to affect the foetus;",
+        "D": "d.\tIs neutralized by protamine sulphate in 1mg to 100 iu",
+        "E": "n/a"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 31,
+      "question": "The floor of the inguinal canal is reinforced medially by the ",
+      "options": {
+        "A": "conjoint tendon",
+        "B": "lacunar ligament",
+        "C": "cremasteric muscle",
+        "D": "cooper’s ligament",
+        "E": "n/a"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 32,
+      "question": "Regarding male infertility this is a proven therapy",
+      "options": {
+        "A": "Surgical repair of varicocele",
+        "B": "Lifestyle changes including dietary supplement of Fish oil (omega 3)",
+        "C": "Lifestyle changes including dietary supplement of Fish oil (omega 3)",
+        "D": "Medical therapies to increase circulating gonadotrophin level",
+        "E": "intracytoplasmic injection of spermatozoa into the oocyte is the most effective"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 33,
+      "question": "Patching of the eye is contraindicated in: \r\na. \r\nb. \r\nc. \r\nd. \r\n",
+      "options": {
+        "A": "Corneal abrasion",
+        "B": "Bacterial corneal ulcer",
+        "C": "Mucopurulent conjunctivitis",
+        "D": "After glaucoma surgery",
+        "E": "n/a"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 34,
+      "question": "You need detailed information information about his most current episode and your consulting room can accommodate only one other person aside the patient. Which of the people who accompanied him will you prefer to join you?\r\n\r\n \r\n \r\n \r\n \r\n",
+      "options": {
+        "A": "His mother",
+        "B": "The Police officer",
+        "C": "His father",
+        "D": "His boss at the office",
+        "E": "His friend"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 35,
+      "question": "A 50-year-old man who was diagnosed of hypertension and started on Lisinopril 10 mg daily is referred to the Renal clinic due to hyperkalaemia and marked elevation in serum creatinine seen on on repeat kidney function test done after 2 weeks. What is the most useful investigation to identify the possible reason for this observation?\r\n",
+      "options": {
+        "A": "Renin and angiotensin levels",
+        "B": "Renal tract ultrasound",
+        "C": "Urinary electrolytes",
+        "D": "CT renal angiogram",
+        "E": "Short synacthen test"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 36,
+      "question": "A two year old male child presents at the emergency room with a five-day history of cough and breathlessness. Examination reveals cardiomegaly, central cyanosis but no cardiac murmurs. The most likely diagnosis is:\r\n\r\n\r\n\r\n\r\n\r\n",
+      "options": {
+        "A": "Eisenmengers syndrome.",
+        "B": "Ostium secundum defect.",
+        "C": "Pneumonia.",
+        "D": "Tricuspid atresia.",
+        "E": "Shock."
+      },
+      "answer": "A"
+    },
+    {
+      "qid": 37,
+      "question": "The following are associated with menstrual disorders:\r\n\r\n",
+      "options": {
+        "A": "Endometrial polyp.",
+        "B": "Endometrial simple hyperplasia.",
+        "C": "Pelvic inflammatory disease.",
+        "D": "Thyroid disease.",
+        "E": "Diabetes"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 38,
+      "question": "Operative management of major omphalocele in Nigeria ",
+      "options": {
+        "A": "prostethic silo",
+        "B": "teflon/gortex mesh",
+        "C": "prolene mesh",
+        "D": "silastic sheet",
+        "E": "normal saline bag"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 39,
+      "question": "Concerning abdominal ultrasonography, all are True EXCEPT\r\n\r\n",
+      "options": {
+        "A": "The kidneys are bean-shaped hypoechoic structures at the flanks",
+        "B": "The liver is a triangular-shaped structure at the right hypochondrium",
+        "C": "Clear fluid-filled structures are anechoic with posterior enhancement",
+        "D": "Calcification is hyperechoic with posterior acoustic shadow",
+        "E": "Acoustic window is not needed to visualize the uterus"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 40,
+      "question": " The following clinical manifestations are suggestive of right-sided pleural effusion:\r\n\r\n\r\n\r\n\r\n",
+      "options": {
+        "A": "Percussion note will be dull on the right side",
+        "B": "Vocal resonance will be increased on the right side",
+        "C": "Trachea will be displaced to the left side",
+        "D": "Chest movement will be normal on both sides",
+        "E": "Breath sound will be bronchial on the right side"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 41,
+      "question": "Which of the following risks is the highest in women with sickle cell disease complicating pregnancy",
+      "options": {
+        "A": "A Low birth weight",
+        "B": "B Fetal growth restriction",
+        "C": "C. Perinatal mortality",
+        "D": "D. Preeclampsia",
+        "E": "E Maternal mortality"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 42,
+      "question": "Prothrombin Time:",
+      "options": {
+        "A": "a.\tMeasures coagulation Factors I, II, V, VII and X;",
+        "B": "b.\tNormal time is 25 – 40 seconds",
+        "C": "c.\tIs prolonged in patients with haemorrhagic disease of the newborn;",
+        "D": "d.\tIs used to monitor Warfarin therapy;",
+        "E": "e.\tIs prolonged in Yelow Fever infection."
+      },
+      "answer": "D"
+    },
+    {
+      "qid": 43,
+      "question": "A 21 year old woman presents with a two ay history of sore throat and dysphagia. On examination she is pyrexial with hallitosis and cervical lymohadenopathy. What is the likely causative organism for her condition",
+      "options": {
+        "A": "Epstein-barr virus",
+        "B": "corynebacterium diphteriae",
+        "C": "neiserria gonorrhoea",
+        "D": "rotavirus",
+        "E": "Strptococcus pyogenes"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 44,
+      "question": "60. A 45-year-old lady was seen in surgical clinic with history of yellowness of the eyes of 3 months duration. There was associated body itching. A working diagnosis of obstructive jaundice secondary to cholangiocarcinoma following investigations. Which of the following is not a typical problem seen in patients with this type of jaundice",
+      "options": {
+        "A": "a.Increased risk of sepsis",
+        "B": "Increased risk of hypoglycaemia",
+        "C": "Hepatorenal syndrom",
+        "D": "d.Increased bleeding tendencies",
+        "E": "e.Increased risk of hyperglycaemia"
+      },
+      "answer": "E"
+    },
+    {
+      "qid": 45,
+      "question": "What is the strongest known risk factor for ovarian cancer?",
+      "options": {
+        "A": "Family history of ovarian cancer",
+        "B": "Family history of ovarian cancer",
+        "C": "Fertility treatment",
+        "D": "Nulliparity",
+        "E": "Smoking"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 46,
+      "question": "\r\nWhich of the following statements is True about Infertility in a couple?\r\n\r\n\r\n\r\n\r\n",
+      "options": {
+        "A": "Is always  caused by a male factor",
+        "B": "Varicocoele induced male factor does not occur",
+        "C": "Seminal fluid analysis(SFA) specimen must be processed within 3hours of collection",
+        "D": "In SFA, volume less than 1ml is suggestive of Obstructive cause",
+        "E": "Elevated Testosterone in the presence of elevated FSH and LH is diagnostic of testicular failure"
+      },
+      "answer": "D"
+    },
+    {
+      "qid": 47,
+      "question": "Lymphoid tissue called Waldeyers ring is situated in",
+      "options": {
+        "A": "nasopharynx",
+        "B": ". upper two parts of the pharynx",
+        "C": "oropharynx",
+        "D": "base of tongue",
+        "E": "hypopharynx"
+      },
+      "answer": "B"
+    },
+    {
+      "qid": 48,
+      "question": "If the uterus is inverted following childbirth all of the following are true except; \r\n",
+      "options": {
+        "A": "The uterine fundus is felt on abdominal palpation",
+        "B": "There may be slight or intense pain",
+        "C": "The inverted uterus may be apparent at the valve",
+        "D": "The uterine fundus is not felt on abdominal palpation-",
+        "E": "None of the above"
+      },
+      "answer": "A"
+    },
+    {
+      "qid": 49,
+      "question": "The commonest cause of acute pancreatitis is? ",
+      "options": {
+        "A": "infections",
+        "B": "alcohol abuse",
+        "C": "idiopathic",
+        "D": "Biliary calculi",
+        "E": "n/a"
+      },
+      "answer": "C"
+    },
+    {
+      "qid": 50,
+      "question": "When a patient presents with cord prolapse, which of the following statements is \r\nINCORRECT? \r\n",
+      "options": {
+        "A": "Funic presentation refers to the cord being below the presenting part, with intact membranes and not palpable on digital vaginal exam.",
+        "B": "If the cord is pulsatile, a rapid cesarean section is the best management for overt prolapse.",
+        "C": "Occult prolapse may be overcome by appropriate positioning of the patient",
+        "D": "A full bladder may avert bad outcomes,",
+        "E": "Avoiding early ARM in patients with high presenting part is advised to prevent cord prolapse."
+      },
+      "answer": "A"
+    },
+        {
+          "qid": 51,
+          "question": "Which variety of HIV is most common in West Africa?",
+          "options": {
+            "A": "HIV 1",
+            "B": "HIV 2",
+            "C": "HIV 5",
+            "D": "HIV 3",
+            "E": "HIV 6"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 52,
+          "question": "Which of the following is a common presentation of African tick-bite fever?",
+          "options": {
+            "A": "Rash resembling measles",
+            "B": "Hemolytic anemia",
+            "C": "Neurological symptoms",
+            "D": "Acute kidney injury",
+            "E": "None of the above"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 53,
+          "question": "What is the commonest cause of intestinal obstruction in Nigeria? ",
+          "options": {
+            "A": "Acute appendicitis",
+            "B": "Stangulated inguinal hernia",
+            "C": "intussusception",
+            "D": "Post-operative adhesions",
+            "E": "Gall bladder stone"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 54,
+          "question": "In a rural African community, a patient presents with symptoms of persistent sadness, loss of interest in previously enjoyable activities, changes in appetite and sleep patterns, feelings of worthlessness, and recurrent thoughts of death. Which of the following is the most likely diagnosis?",
+          "options": {
+            "A": "Generalized anxiety disorder (GAD)",
+            "B": "Bipolar disorder",
+            "C": "Schizophrenia",
+            "D": "Major depressive disorder (MDD)",
+            "E": "Obsessive-compulsive disorder (OCD)"
+          },
+          "answer": "D"
+        },
+        {
+          "qid": 55,
+          "question": "In a rural African setting with limited access to specialized cardiac care, a patient presents with symptoms of infective endocarditis. Which of the following is a common complication of infective endocarditis that may require surgical intervention?",
+          "options": {
+            "A": "Aortic regurgitation",
+            "B": "Mitral regurgitation",
+            "C": "Ventricular septal defect",
+            "D": "Atrial fibrillation",
+            "E": "Aortic dissection"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 56,
+          "question": "Which of the following conditions, prevalent in Africa, is characterized by a chronic, relapsing inflammatory skin disorder with erythematous, scaly plaques, often affecting extensor surfaces and the scalp?",
+          "options": {
+            "A": "Eczema",
+            "B": "Psoriasis",
+            "C": "Dermatophytosis",
+            "D": "Scabies",
+            "E": "Contact dermatitis"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 57,
+          "question": "Which of the following is a common complication of untreated chronic hepatitis B infection in African populations?",
+          "options": {
+            "A": "Cirrhosis",
+            "B": "Hepatocellular carcinoma (HCC)",
+            "C": "Portal hypertension",
+            "D": "Ascites",
+            "E": "Hepatic encephalopathy"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 58,
+          "question": "Which of the following is a common presentation of African endemic Buruli ulcer?",
+          "options": {
+            "A": "Painful genital ulcers",
+            "B": "Large, painless skin ulcers",
+            "C": "Papular rash",
+            "D": "Severe itching",
+            "E": "None of the above"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 59,
+          "question": "The most appropriate treatment for Supraventricular Tachycardia is\r\n",
+          "options": {
+            "A": "Digoxin",
+            "B": "Flecainide",
+            "C": "Adenosine",
+            "D": "Propranolol",
+            "E": "n/a"
+          },
+          "answer": "C"
+        },
+        {
+          "qid": 60,
+          "question": "\r\n28. About Kawasaki disease, which of the following is true?",
+          "options": {
+            "A": "A. Vasculitis of large arteries",
+            "B": "B. Treated with IV antibiotics",
+            "C": "C. Associated with coronary aneurysms",
+            "D": "D. Aspirin is contraindicated",
+            "E": "n/a"
+          },
+          "answer": "D"
+        },
+        {
+          "qid": 61,
+          "question": "The commonest site of colorectal cancer in Nigeria is the descending colon.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "N/A",
+            "D": "N/A",
+            "E": "N/A"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 62,
+          "question": "Which of the following conditions, prevalent in Africa, is characterized by the abnormal growth of cells in the prostate gland, leading to symptoms such as urinary frequency, urgency, hesitancy, weak urinary stream, and nocturia?",
+          "options": {
+            "A": "Prostatitis",
+            "B": "Prostate cancer",
+            "C": "Benign prostatic hyperplasia (BPH)",
+            "D": "Epididymitis",
+            "E": "Testicular cancer"
+          },
+          "answer": "C"
+        },
+        {
+          "qid": 63,
+          "question": "Which of the following is the leading cause of blindness in African adults?",
+          "options": {
+            "A": "Glaucoma",
+            "B": "Cataracts",
+            "C": "Diabetic retinopathy",
+            "D": "Trachoma",
+            "E": "Age-related macular degeneration (AMD)"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 64,
+          "question": "You see a three-month-old infant with a branchial cyst, and you are counselling the parents in preparation for elective cyst excision. The father asks you how branchial cysts come about.\r\n\r\nWhat is the correct description of the embryology of the branchial arches?",
+          "options": {
+            "A": "There are six pairs of branchial arches that contain cranial nerves I to VI",
+            "B": "The branchial arches have no ectodermal components, as their external surface become the branchial clefts",
+            "C": "Each branchial arch contains a distinct artery, cartilage rod, muscle and nerve",
+            "D": "The second branchial arch contains cranial nerves VII and VIII",
+            "E": "n/a"
+          },
+          "answer": "D"
+        },
+        {
+          "qid": 65,
+          "question": "Hemolytic disease of The newborn may be due to all of the following except:\r\n",
+          "options": {
+            "A": "Rh incompatibility mostly anti-C",
+            "B": "ABO incompatibility",
+            "C": "Minor group incompatibility",
+            "D": "All of the above",
+            "E": "None of the above"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 66,
+          "question": "Which of the following is a common complication of untreated type 2 diabetes mellitus in African populations?",
+          "options": {
+            "A": "Peripheral neuropathy",
+            "B": "Retinopathy",
+            "C": "Diabetic ketoacidosis (DKA)",
+            "D": "Non-alcoholic fatty liver disease (NAFLD)",
+            "E": "Cushing's syndrome"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 67,
+          "question": "A 27-year-old man presents to the clinic for follow-up. He has a history of HIV and is adherent to his antiretroviral therapy. He has no active complaints. He is traveling to Africa as part of an HIV awareness campaign. He is up to date with all his vaccinations, except for hepatitis A, which he last received when he was aged 2 years. Which of the following is the most appropriate recommendation regarding hepatitis A prophylaxis in this patient?",
+          "options": {
+            "A": "Reassurance that he does not need another dose",
+            "B": "Live-attenuated hepatitis A vaccine",
+            "C": "Inactivated hepatitis A vaccine",
+            "D": "Ribavirin prescription",
+            "E": "none"
+          },
+          "answer": "C"
+        },
+        {
+          "qid": 68,
+          "question": "A day 2 of life 2 kg neonate is diagnosed with a common type (Gross C) oesophageal atresia with distal tracheoesophageal fistula. \r\n\r\nWhich of the following investigations for VACTERL association is required prior to operative intervention?",
+          "options": {
+            "A": "An echocardiogram",
+            "B": "A babygram",
+            "C": "A renal ultrasound",
+            "D": "A spinal ultrasound",
+            "E": "n/a"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 69,
+          "question": "The prevention of NEC has become a major focus of research because management strategies have had little impact on mortality over the last three decades. \r\n\r\nWhich of the following is most clinically effective with regards to the prevention of NEC?\r\n\r\n",
+          "options": {
+            "A": "Donor human milk contains anti-inflammatory and antimicrobial properties and is as effective as MOM (mothers’ own milk)",
+            "B": "Probiotics have been shown to decrease the incidence of Bell II NEC",
+            "C": "Amino-acid supplementation with arginine and glutamine shows a significant protective affect",
+            "D": "Heparin binding Epidermal Growth Factor is beneficial but concerns have been raised regarding coagulopathy",
+            "E": "n/a"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 70,
+          "question": "You review a nine month old infant at your clinic, who had a benign sacrococcygeal teratoma resected as a neonate. The alpha-feto protein levels is elevated, and a CT scan is ordered which confirms the presence of recurrence. \r\n\r\nWhich of the following is likely to account for the recurrence?\r\n\r\n",
+          "options": {
+            "A": "a sampling error of the original tumor,",
+            "B": "complete resection of a malignant focus with clear margins",
+            "C": "progression of malignant disease",
+            "D": "the lack of established neo-adjuvant therapy",
+            "E": "n/a"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 71,
+          "question": "Which type of immunodeficiency is commonly associated with HIV/AIDS in Africa?",
+          "options": {
+            "A": "Transient immunodeficiency",
+            "B": "Congenital immunodeficiency",
+            "C": "Primary immunodeficiency",
+            "D": "Secondary immunodeficiency",
+            "E": "Autoimmune immunodeficiency"
+          },
+          "answer": "D"
+        },
+        {
+          "qid": 72,
+          "question": " In African societies where communal living is common, a patient presents with symptoms of recurrent, intrusive thoughts, images, or impulses (obsessions) and repetitive behaviors or mental acts (compulsions) performed in response to these obsessions. Which of the following is the most likely diagnosis?",
+          "options": {
+            "A": "Panic disorder",
+            "B": "Generalized anxiety disorder (GAD)",
+            "C": "Post-traumatic stress disorder (PTSD)",
+            "D": "Social anxiety disorder",
+            "E": "Obsessive-compulsive disorder (OCD)"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 73,
+          "question": " A 40-year-old African patient presents with a painful, swollen knee that is warm to the touch. Synovial fluid analysis reveals an elevated white blood cell count with neutrophil predominance. Which of the following is the most likely diagnosis?",
+          "options": {
+            "A": "Osteoarthritis",
+            "B": "Rheumatoid arthritis",
+            "C": "Septic arthritis",
+            "D": "Gout",
+            "E": "Pseudogout"
+          },
+          "answer": "C"
+        },
+        {
+          "qid": 74,
+          "question": "You are asked to review a 2-month old infant admitted to paediatrics with a severe lower respiratory tract infection. On examination you note that the umbilical cord has not yet separated.\r\n\r\nWhat would your advice to the paediatrician be?\r\n\r\n",
+          "options": {
+            "A": "Apply daily chlorhexidine to the cord",
+            "B": "Suture ligated the excess cord",
+            "C": "Investigate for neutrophil mobility defects",
+            "D": "Investigate for vertical transmission of HIV",
+            "E": "n/a"
+          },
+          "answer": "C"
+        },
+        {
+          "qid": 75,
+          "question": "All the following are true regarding Brucellosis, except?",
+          "options": {
+            "A": "It is a zoonotic disease",
+            "B": "Can be acquired via inhalational route",
+            "C": "Does not affect the joints",
+            "D": "Rising titers with cut-offs >1:320 are diagnostic",
+            "E": "Can cause an undulating fever"
+          },
+          "answer": "C"
+        },
+        {
+          "qid": 76,
+          "question": "40)\tThe PENTAVALENT infant vaccine protects against:",
+          "options": {
+            "A": "Meningococcus, diphtheria, pertussis, polio, Hib",
+            "B": "Diphtheria, tetanus, pertussis, hepatitis B, Hib",
+            "C": "Pneumococcus, pertussis, polio, diphtheria, Hib",
+            "D": "Meningococcus, pneumococcus, diphtheria, pertussis, tetanus",
+            "E": "Diphtheria, pertussis, hepatitis B, Hib, rotavirus"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 77,
+          "question": "Metformin use in the management of Polycystic Ovary Syndrome offers the following benefit(s)",
+          "options": {
+            "A": "A. Decline in insulin levels",
+            "B": "b. Increase in insulin sensitivity",
+            "C": "c Decrease in serum lipid levels",
+            "D": "d. Reduced risk of miscarriage",
+            "E": "e All the above"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 78,
+          "question": "A 2-month-old infant presents to your rooms with a right neck mass. On examination the mass is firm and not tethered to the overlying skin. The baby’s head is tilted towards the side of the mass.\r\n\r\nWhich of the following is true regarding the condition described?",
+          "options": {
+            "A": "If left untreated most children with this condition will develop permanent deformity known as plagiocephaly",
+            "B": "Surgery is always required to prevent hemifacial hypoplasia",
+            "C": "Most children with torticollis are managed conservatively",
+            "D": "Botulinum toxin injection is only effective in patients presenting in late  childhood or adulthood",
+            "E": "n/a"
+          },
+          "answer": "C"
+        },
+        {
+          "qid": 79,
+          "question": "Which of the following is not a recommended Artemisinin-based combination therapy in Nigeria? ",
+          "options": {
+            "A": "Arthemeter-Lumefantrine",
+            "B": "Artesunate-Amodiaquine",
+            "C": "Dihydroartemisinin Piperaquine",
+            "D": "Artesunate-Pyronaridin",
+            "E": "Artesunate-chloroquine"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 80,
+          "question": "A 2-month old who presented with choking after feeds, undergoes a contrast oesophagogram which demonstrates a trache-oesophageal fistula at the level of C 4\r\n\r\nWhat would your surgical approach be?\r\n",
+          "options": {
+            "A": "A left cervical incision",
+            "B": "A right cervical incision",
+            "C": "A right thoracotomy",
+            "D": "Combine bronchoscopic and endoscopic management",
+            "E": "n/a"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 81,
+          "question": "Which is likely to indicate abnormal foetal-neonatal transition?",
+          "options": {
+            "A": "A.​Pulmonary vascular resistance decreases",
+            "B": "B.​Systemic vascular resistance increases",
+            "C": "C.​Pulmonary blood flow decreases",
+            "D": "D.​Ductus venosus closes",
+            "E": "n/a"
+          },
+          "answer": "C"
+        },
+        {
+          "qid": 82,
+          "question": "The following diseases must be screened for in blood for transfusion in Kenya;",
+          "options": {
+            "A": "Hepatitis",
+            "B": "HIV",
+            "C": "Syphillis",
+            "D": "All of the above",
+            "E": "N/A"
+          },
+          "answer": "D"
+        },
+        {
+          "qid": 83,
+          "question": "You are called to assess a newborn with a suspected oesophageal atresia. The abdominal radiograph demonstrates a double bubble sign. The child is in respiratory distress, and the neonatologists are planning to intubate.\r\n\r\nWhat is your approach to this scenario?\r\n\r\n\r\n",
+          "options": {
+            "A": "Intubate the right main bronchus to achieve single lung ventilation",
+            "B": "Take the child to theatre to perform an emergency gastrostomy",
+            "C": "Take the child to theatre and perform a right thoracotomy and emergency ligation of the trache-oesophegeal fistula",
+            "D": "Perform a diagnostic bronchoscopy",
+            "E": "n/a"
+          },
+          "answer": "C"
+        },
+        {
+          "qid": 84,
+          "question": "Which imaging modality is commonly used for the diagnosis and monitoring of liver cirrhosis and related complications in Africa?",
+          "options": {
+            "A": "Bone densitometry",
+            "B": "Ultrasound",
+            "C": "MRI",
+            "D": "Nuclear medicine",
+            "E": "PET"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 85,
+          "question": "Which of the following is a common complication of untreated African endemic schistosomiasis?",
+          "options": {
+            "A": "Cerebral malaria",
+            "B": "Bladder cancer",
+            "C": "Hepatic encephalopathy",
+            "D": "Acute respiratory distress syndrome (ARDS)",
+            "E": "None of the above"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 86,
+          "question": "Which of the following is NOT a risk factor for sickle cell disease in Nigeria?",
+          "options": {
+            "A": "Malaria",
+            "B": "Family history of sickle cell disease",
+            "C": "Vitamin D deficiency",
+            "D": "Hemoglobin AS genotype",
+            "E": "Hemoglobin AC genotype"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 87,
+          "question": "Which of the following is associated with an acute asthmatic attack?",
+          "options": {
+            "A": "Restrictive pattern on spirometry",
+            "B": "Prompt relief from nebulized beta2receptor blockers",
+            "C": "Consolidation on chest radiograph",
+            "D": "Reduced FEV1",
+            "E": "Stridor"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 88,
+          "question": "The ego-ideal is a component of \r\n\r\n\r\n\r\n\r\n",
+          "options": {
+            "A": "Superego",
+            "B": "Ego",
+            "C": "Ideal self",
+            "D": "Id",
+            "E": "Eros"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 89,
+          "question": "Which of the following views of plain X-rays of paranasal sinuses is useful in delineating the type of opacity in the maxillary sinus?\r\n\r\n",
+          "options": {
+            "A": "Occipitofrontal",
+            "B": "Occipitomental",
+            "C": "Lateral",
+            "D": "Submentovertical",
+            "E": "Oblique"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 90,
+          "question": "Which of the following is the most common cause of chronic cough in Africa ",
+          "options": {
+            "A": "Gastroesophageal reflux disease (GERD)",
+            "B": "Asthma",
+            "C": "Pneumonia",
+            "D": "Chronic bronchitis",
+            "E": "Tuberculosis"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 91,
+          "question": "Which is the law that defines the practice of medicine in Kenya?",
+          "options": {
+            "A": "Kenya medical practitioners act",
+            "B": "Kenya medical practitioners and dentist act",
+            "C": "The criminal procedure act",
+            "D": "The public health act",
+            "E": "N/A"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 92,
+          "question": "Which of the following is a common cause of obstetric emergencies in Africa?",
+          "options": {
+            "A": "Ovarian torsion",
+            "B": "Uterine rupture",
+            "C": "Placenta previa",
+            "D": "Ectopic pregnancy",
+            "E": "Preeclampsia"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 93,
+          "question": "Acute hemorrhagic conjunctivitis affected a large proportion of population over a wide geographic area. The disease is",
+          "options": {
+            "A": "sporadic",
+            "B": "Endemic",
+            "C": "Opportunistic",
+            "D": "Pandemic",
+            "E": "Epidemic"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 94,
+          "question": "An elderly man has noticed three episodes of visual loss in his right eye. The vision in that eye goes black “like somebody pulling down a window shade.” The symptom lasts 20 to 30 min and resolves promptly. Between episodes he feels well. What is the likely diagnosis?\r\n",
+          "options": {
+            "A": "Internal carotid artery",
+            "B": "Middle cerebral artery",
+            "C": "Midbasilar artery",
+            "D": "Anterior cerebral artery",
+            "E": "Penetrating branch, middle cerebral artery"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 95,
+          "question": "A 60-year-old African patient presents with fatigue, palpitations, and dyspnea on exertion. Laboratory investigations reveal normocytic anemia, thrombocytopenia, and a positive direct antiglobulin test (DAT). Which of the following conditions is most likely responsible for this presentation?",
+          "options": {
+            "A": "Autoimmune hemolytic anemia (AIHA)",
+            "B": "Thrombotic thrombocytopenic purpura (TTP)",
+            "C": "Iron deficiency anemia",
+            "D": "Hereditary spherocytosis",
+            "E": "Myelodysplastic syndrome (MDS)"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 96,
+          "question": "Which of the following is a common etiological factor for the development of hepatocellular carcinoma (HCC) in Africa?",
+          "options": {
+            "A": "Chronic alcohol consumption",
+            "B": "Hepatitis B virus (HBV) infection",
+            "C": "Non-alcoholic fatty liver disease (NAFLD)",
+            "D": "Hepatitis C virus (HCV) infection",
+            "E": "Aflatoxin exposure"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 97,
+          "question": "Which of the following is a common presentation of African endemic leishmaniasis?",
+          "options": {
+            "A": "Painful genital ulcers",
+            "B": "Cutaneous nodules",
+            "C": "Recurrent fever",
+            "D": "Excessive tearing",
+            "E": "None of the above"
+          },
+          "answer": "B"
+        },
+        {
+          "qid": 98,
+          "question": "All of the following are features of apoptosis except",
+          "options": {
+            "A": "cell swelling",
+            "B": "chromatin condensation",
+            "C": "lack of inflammation",
+            "D": "phagocytosis of apoptotic bodies",
+            "E": "formation of cytoplasmic bodies"
+          },
+          "answer": "A"
+        },
+        {
+          "qid": 99,
+          "question": "Chronic Myeloid Leukaemia is characterised by \r\n",
+          "options": {
+            "A": "Splenomegaly",
+            "B": "Marked leukocytosis",
+            "C": "Basophilia",
+            "D": "Myelocyte bulge",
+            "E": "all of the above"
+          },
+          "answer": "E"
+        },
+        {
+          "qid": 100,
+          "question": "Which of the following medications is first line in the management of schizophrenia \r\n\r\n \r\n \r\n \r\n\r\n",
+          "options": {
+            "A": "Aripiprazole",
+            "B": "Lithium",
+            "C": "Carbamazepine",
+            "D": "Venlafaxine",
+            "E": "Amitriptylline"
+          },
+          "answer": "A"
+        }
+      ]
