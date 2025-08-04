@@ -7,9 +7,7 @@ import asyncio
 from asyncio import Semaphore
 from tqdm.asyncio import tqdm
 
-# Import ColaCare utilities
 from utils.json_utils import load_json, save_json, preprocess_response_string
-from utils.encode_image import encode_image
 
 from agents.llm_configs import LLM_MODELS_SETTINGS
 from agents.assistant_agent import *
@@ -124,39 +122,23 @@ def main():
     """
     
     parser = argparse.ArgumentParser(description="Run the Reconcile framework on medical QA datasets")
-    parser.add_argument("--dataset", type=str, choices=["medbullets","medqa","medmcqa","mmlu","VQA-RAD","pubmedqa","afrimedqa","medexqa","medxpertqa-r"])
-    parser.add_argument("--max_rounds", type=int, default=3, help="Maximum number of discussion rounds")
-    parser.add_argument("--is_rag", type=bool, default=True)
-    parser.add_argument("--model", type=str, choices=["deepseek-v3-official", "gpt-4o","gpt-4o-mini","gpt-o4-mini","qwen2.5-72b-instruct","kimi-k2","deepseek-r1-official","claude-sonnet-4"])
+    parser.add_argument("--dataset", type=str, choices=["medbullets","medqa","mmlu","afrimedqa"])
+    parser.add_argument("--model", type=str, choices=["deepseek-v3-official", "gpt-4o","gpt-4o-mini","kimi-k2"])
     parser.add_argument("--alpha", type=float, default=0.2)
-    parser.add_argument("--split", type=str,choices=['hard',"easy","ablation","all"],help="Directory to save output files")
-    parser.add_argument("--ablation_type", type=str, default="",choices=['','rag',"cp","network","sens"])
+    
     global args, logs_dir, framework, size_filtered_data
     args = parser.parse_args()
     method = "Conformal"
-    print(args.is_rag)
 
     # Extract dataset name
     dataset_name = args.dataset
     print(f"Dataset: {dataset_name}")
     print(f"Model: {args.model}")
-    if args.split == 'hard':
-        logs_dir = os.path.join("output-hard", args.model, dataset_name, method)
-        os.makedirs(logs_dir, exist_ok=True)
-        data_path = f"./data/{dataset_name}/processed_50_hard.json"
-    elif args.split == 'easy':
-        logs_dir = os.path.join("output-simple", args.model, dataset_name, method)
-        os.makedirs(logs_dir, exist_ok=True)
-        data_path = f"./data/{dataset_name}/processed_50.json"
-    elif args.split == 'all':
-        logs_dir = os.path.join("output", args.model, dataset_name, method)
-        os.makedirs(logs_dir, exist_ok=True)
-        data_path = f"./data/{dataset_name}/processed.json"
-    elif args.split == 'ablation':
-        logs_dir = os.path.join("output-ablation", args.model, dataset_name, method, f"{args.ablation_type}_{args.alpha}")
-        os.makedirs(logs_dir, exist_ok=True)
-        data_path = f"./data/{dataset_name}/processed.json"
-            
+    
+    logs_dir = os.path.join("output", args.model, dataset_name, method)
+    os.makedirs(logs_dir, exist_ok=True)
+    data_path = f"./data/{dataset_name}/processed.json"
+    
     # Construct the data path
 
     # Load the dataset

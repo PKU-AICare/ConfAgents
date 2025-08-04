@@ -2,7 +2,6 @@ import os
 import json
 import numpy as np
 import argparse
-from utils.llm_scoring import llm_score
 from utils.json_utils import preprocess_response_string
 from typing import Union, Optional
 
