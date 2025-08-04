@@ -22,7 +22,7 @@ def read_jsonl(path, default_size=200):
     json_list = []
     with open(path, 'r', encoding='utf-8') as f:
         for line in f:
-            json_obj = json.loads(line.strip())  # 去除换行符并加载每一行的 JSON
+            json_obj = json.loads(line.strip())
             meta_info = json_obj["meta_info"]
             if meta_info not in json_dict:
                 json_dict[meta_info] = []
@@ -42,7 +42,6 @@ async def to_thread(func, *args, **kwargs):
     return await loop.run_in_executor(None, func_call)
 
 async def process_data_parallel(data, max_concurrent=5):
-    """并行处理数据，限制最大并发数"""
     semaphore = Semaphore(max_concurrent)
     
     async def process_with_semaphore(item):
@@ -51,7 +50,6 @@ async def process_data_parallel(data, max_concurrent=5):
     
     tasks = [process_with_semaphore(item) for item in data]
     
-    # 保持顺序的并行处理
     from tqdm.asyncio import tqdm
     results = await tqdm.gather(*tasks, desc="Processing")
     
@@ -139,8 +137,6 @@ def main():
     os.makedirs(logs_dir, exist_ok=True)
     data_path = f"./data/{dataset_name}/processed.json"
     
-    # Construct the data path
-
     # Load the dataset
     data = load_json(data_path)
     print(f"Loaded {len(data)} samples from {data_path}")

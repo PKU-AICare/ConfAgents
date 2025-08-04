@@ -28,18 +28,16 @@ class ConformalAgent(BaseAgent):
         all_scores = None
         all_targets = None
 
-        # 字母到数字的映射
         letter_to_num = {'A': 0, 'B': 1, 'C': 2, 'D': 3, 'E': 4}
 
         for key in dataset.keys():
             dataset[key]['scores'] = np.array(dataset[key]['scores'])
 
-            # 将字母转换为数字
             letter_targets = dataset[key]['targets']
             num_targets = np.array([letter_to_num[letter] for letter in letter_targets])
             dataset[key]['targets'] = num_targets
             
-            if all_scores is not None:  # 增加一个全类别
+            if all_scores is not None:
                 all_scores = np.concatenate((all_scores, dataset[key]['scores']), axis=0)
                 all_targets = np.concatenate((all_targets, dataset[key]['targets']), axis=0)
             else:
@@ -94,7 +92,7 @@ class ConformalAgent(BaseAgent):
         n = torch.tensor(targets.size(0))
         assert n
 
-        score_dist = torch.take_along_dim(1 - scores, targets.unsqueeze(1), 1).flatten()    # 按行依次取值，形状与索引相同
+        score_dist = torch.take_along_dim(1 - scores, targets.unsqueeze(1), 1).flatten()
         
         assert (
             0 <= torch.ceil((n + 1) * (1 - self.alpha)) / n <= 1
@@ -122,7 +120,6 @@ class ConformalAgent(BaseAgent):
         cal_scores = np.concatenate(cal_scores, axis=0)
         cal_targets = np.concatenate(cal_targets, axis=0)
         
-        # 随机选择 100个问题
         index = np.arange(len(cal_scores))
         np.random.shuffle(index)
         index = index[:topK]

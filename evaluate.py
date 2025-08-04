@@ -159,7 +159,7 @@ if __name__ == "__main__":
         
         np.random.seed(42)
 
-        # 生成所有bootstrap样本
+        # generate all bootstrap samples
         qids = [bootstrap(data_path) for _ in range(args.n_bootstrap)]
         
         # Loop through the model results

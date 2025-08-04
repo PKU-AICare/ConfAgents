@@ -66,28 +66,16 @@ class MainAgent(BaseAgent):
         return refined_answer, res
 
     def extract_better_answer(self,json_response):
-        """
-        保存JSON响应并提取better_answer字段
-
-        Args:
-            json_response: 字符串格式的JSON响应或字典对象
-        
-        Returns:
-            str: better_answer的值
-        """
-
-        # 如果输入是字符串，解析为字典
         json_response = json_response[json_response.find("{"):json_response.rfind("}")+1]
         if isinstance(json_response, str):
             try:
                 data = json.loads(json_response)
             except:
-                print("解析JSON响应时出错")
+                print("fail to parse JSON response")
                 return False, 'A', 'Low', None
         else:
             data = json_response
 
-        # 提取better_answer
         better_answer = data.get('final_judgment', {}).get('better_answer')
         confidence_level = data.get('final_judgment', {}).get('confidence_level')
 

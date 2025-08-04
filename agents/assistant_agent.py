@@ -33,10 +33,8 @@ class AssistAgent(BaseAgent):
         while(not is_break and round < 3):
             is_break = True
             round += 1
-            # 首先进行RAG全问题分析
             rag_analysis_results = self.assist_info_rag_whole_question(info, setup="a medical expert", max_retries=max_retries)
             
-            # 将RAG分析结果序列化成字符串
             if isinstance(rag_analysis_results, list):
                 rag_analysis = "\n\n".join([
                     f"**Analysis for Query: {item['question']}**\n{item['analysis']}" 
@@ -45,7 +43,6 @@ class AssistAgent(BaseAgent):
             else:
                 rag_analysis = str(rag_analysis_results)
             
-            # 格式化选项
             options_str = "\n".join([f"{k}: {v}" for k, v in options.items()])
             
             system_content = assist_debate_prompt["system"].render()
@@ -66,21 +63,9 @@ class AssistAgent(BaseAgent):
         return res,rag_analysis
 
     def assist_info_rag_whole_question(self, info, setup="a medical expert", max_retries=3):
-        """
-        针对整个问题的RAG分析
-        
-        Args:
-            info (dict): 包含问题信息的字典
-            setup (str): 身份设定
-            max_retries (int): 最大重试次数
-        
-        Returns:
-            str: 分析结果
-        """
         question = info["question"]
         options = info["options"]
         
-        # 格式化选项为字符串
         options_str = "\n".join([f"{k}: {v}" for k, v in options.items()])
         
         return self._execute_rag_analysis(
@@ -94,23 +79,7 @@ class AssistAgent(BaseAgent):
         )
 
     def _execute_rag_analysis(self, prompt_template, analysis_template, question, mode, max_retries, **kwargs):
-        """
-        执行RAG分析的通用函数
-        
-        Args:
-            prompt_template: 生成查询问题的prompt模板
-            analysis_template: 分析的prompt模板
-            question: 主问题
-            mode: 分析模式 ("single_option" 或 "whole_question")
-            max_retries: 最大重试次数
-            **kwargs: 其他参数
-        
-        Returns:
-            list: 分析结果列表
-        """
         try:
-            # 根据模式准备prompt参数
-            
             system_content = prompt_template["system"].render(setup=kwargs.get('setup', 'a medical expert'))
             user_content = prompt_template["user"].render(
                 main_question=question,
@@ -118,12 +87,11 @@ class AssistAgent(BaseAgent):
                 setup=kwargs.get('setup', 'a medical expert')
             )
             
-            # 生成RAG查询问题
             query_response = self.call_llm(system_content, user_content, max_retries)
             query_json = self.str2json(query_response)
             
             if not query_json:
-                return "生成查询问题失败"
+                return "fail to generate query questions"
             
             generated_questions = query_json.get("questions", [])
             
@@ -151,11 +119,11 @@ class AssistAgent(BaseAgent):
                     
                 return analysis_results
             else:
-                return "未能生成有效的查询问题"
+                return "fail to generate effective query question"
             
         except Exception as e:
-            print(f"RAG分析出错: {e}")
-            return "RAG分析失败"
+            print(f"RAG analysis fail: {e}")
+            return "RAG analysis fail"
 
     def extract_pset(self, pset, options):
         mapping = {0:'A', 1: 'B', 2: 'C', 3: 'D', 4: 'E'}
